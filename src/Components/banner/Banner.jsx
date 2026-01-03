@@ -33,7 +33,7 @@ function Banner() {
                      <motion.div initial={{opacity:0, y: 50}} animate={{opacity: 1, y: 0 }} transition={{duration:0.5}}
                      className='absolute md:right-10 bottom-0'
                      >
-                    <img className='md:max-w-[750px] w-full min-h-[600px]   h-full object-cover' src='/meccd.png' alt='my photo' />
+                    <img className='md:max-w-[750px] w-full min-h-[600px]   h-full object-cover' src='ana.png' alt='my photo' />
 
                      </motion.div>
             </div>

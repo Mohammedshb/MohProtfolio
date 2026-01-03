@@ -3,7 +3,7 @@ import { AiFillTikTok } from 'react-icons/ai'
 import { FaGithub, FaLinkedin } from 'react-icons/fa'
 import { SlSocialInstagram } from 'react-icons/sl'
 import { motion } from 'framer-motion'
-import { a, link } from 'framer-motion/client'
+
 
 function RecentWork() {
     const projects = [
